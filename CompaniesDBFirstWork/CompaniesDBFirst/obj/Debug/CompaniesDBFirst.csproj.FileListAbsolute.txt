@@ -1,0 +1,10 @@
+C:\Users\Panglot\Desktop\CompaniesDBFirstWork\CompaniesDBFirst\bin\Debug\CompaniesDBFirst.exe.config
+C:\Users\Panglot\Desktop\CompaniesDBFirstWork\CompaniesDBFirst\bin\Debug\CompaniesDBFirst.exe
+C:\Users\Panglot\Desktop\CompaniesDBFirstWork\CompaniesDBFirst\bin\Debug\CompaniesDBFirst.pdb
+C:\Users\Panglot\Desktop\CompaniesDBFirstWork\CompaniesDBFirst\bin\Debug\EntityFramework.dll
+C:\Users\Panglot\Desktop\CompaniesDBFirstWork\CompaniesDBFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Panglot\Desktop\CompaniesDBFirstWork\CompaniesDBFirst\bin\Debug\EntityFramework.xml
+C:\Users\Panglot\Desktop\CompaniesDBFirstWork\CompaniesDBFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Panglot\Desktop\CompaniesDBFirstWork\CompaniesDBFirst\obj\Debug\CompaniesDBFirst.csprojResolveAssemblyReference.cache
+C:\Users\Panglot\Desktop\CompaniesDBFirstWork\CompaniesDBFirst\obj\Debug\CompaniesDBFirst.exe
+C:\Users\Panglot\Desktop\CompaniesDBFirstWork\CompaniesDBFirst\obj\Debug\CompaniesDBFirst.pdb

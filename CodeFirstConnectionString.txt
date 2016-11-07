@@ -1,0 +1,14 @@
+metadata=res://*/CompanyEntities.csdl|res://*/CompanyEntities.ssdl|res://*/CompanyEntities.msl;provider=System.Data.SqlClient;provider connection string="data source=R2-D2;initial catalog=SocialNetworkPractise;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework"
+
+<connectionStrings>
+    <add name="SocialNetwork" connectionString="Data Source =.; Initial Catalog = Socialnetwork; Integrated Security=true" providerName="System.Data.SqlClient"/>
+  </connectionStrings>
+
+enable-migrations
+update-database -verbose
+
+public Configuration()
+        {
+            AutomaticMigrationsEnabled = true;
+            AutomaticMigrationDataLossAllowed = true;
+        }
